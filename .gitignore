@@ -1,0 +1,28 @@
+# --- Unreal Engine : fichiers générés automatiquement ---
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Plugins du projet (si un jour il y en a) : on garde les sources, pas les fichiers compilés
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# --- IDE : Visual Studio, VS Code, Rider ---
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# --- Divers ---
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store

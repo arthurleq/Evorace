@@ -1,0 +1,33 @@
+Copyright © 2026 Arthur Lequertier. Tous droits réservés.
+
+Ce dépôt et l'ensemble de son contenu original (code source, Blueprints, niveaux,
+visuels, textes, règles et univers du jeu « Evorace ») sont la propriété exclusive
+d'Arthur Lequertier.
+
+Aucune partie de ce dépôt ne peut être reproduite, modifiée, distribuée, publiée ou
+utilisée, à des fins commerciales ou non, sans l'autorisation écrite préalable de
+l'auteur. La consultation de ce dépôt n'accorde aucun droit d'utilisation.
+
+Contenu tiers : le moteur Unreal Engine ainsi que les assets issus des modèles
+d'Unreal Engine (notamment les dossiers Content/Characters, Content/Input,
+Content/LevelPrototyping, Content/ThirdPerson et Content/Variant_Platforming)
+restent la propriété d'Epic Games, Inc. et sont soumis au contrat de licence
+d'Unreal Engine (EULA). Ils ne sont pas couverts par la présente mention.
+
+--------------------------------------------------------------------------------
+
+Copyright © 2026 Arthur Lequertier. All rights reserved.
+
+This repository and all of its original content (source code, Blueprints, levels,
+visuals, texts, game rules and setting of the game "Evorace") are the exclusive
+property of Arthur Lequertier.
+
+No part of this repository may be reproduced, modified, distributed, published or
+used, whether for commercial purposes or not, without the prior written permission
+of the author. Viewing this repository does not grant any right of use.
+
+Third-party content: the Unreal Engine and the assets coming from the Unreal Engine
+templates (in particular the Content/Characters, Content/Input,
+Content/LevelPrototyping, Content/ThirdPerson and Content/Variant_Platforming
+folders) remain the property of Epic Games, Inc. and are subject to the Unreal
+Engine End User License Agreement (EULA). They are not covered by this notice.
